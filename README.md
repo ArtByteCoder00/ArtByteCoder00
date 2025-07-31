@@ -1,7 +1,8 @@
 # 👩🏻‍💻 Arthur couto de Almeida Santos 
 
-**`Desenvolvedor Front-End`**
-**`Experiencia com Back-End`**
+**`Desenvolvedor Junior`**
+**`Desenvolvedor Full-Stack`**
+
 
 
 
